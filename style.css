@@ -1,8 +1,7 @@
-/* LexiMari — Mari color palette: white, red, blue, light gray */
 :root {
-  --brand-primary: #B32428;    /* Mari red */
-  --brand-secondary: #048ABF;  /* Mari blue */
-  --brand-light: #F2F2F2;      /* Light gray */
+  --brand-primary: #B32428;
+  --brand-secondary: #048ABF;
+  --brand-light: #F2F2F2;
   --brand-bg: #FFFFFF;
   --text-primary: #1a1a1a;
   --text-secondary: #4a4a4a;
