@@ -2,7 +2,7 @@ function isMari(text) {
   return /[\u0400-\u04FF]/.test(text);
 }
 
-// obviously when we publish it the lemmas will be on sql
+// hi hacker, obviously when we publish it the lemmas will be on sql lol
 const dictionary = {
   en: {
     "water": {
